@@ -1,6 +1,6 @@
 ## What is friend?
 
-Just you wait folks!
+Just you wait friends!
 
 ## Sample Data
 
