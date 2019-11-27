@@ -20,7 +20,7 @@ That will populate 16 stores with 3 authors and 41 reviews. The logins for the a
 
 |Name|Email (login)|Password|
 |---|---|---|
-|Sachin Jangid|sachin@example.com|sachin|
+|Nikhar Jain|mail@example.com|deails|
 |Just What|jwhat@example.com|debbie|
 |Beau|beau@example.com|beau|
 
